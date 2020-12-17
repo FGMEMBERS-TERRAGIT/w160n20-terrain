@@ -1,0 +1,13 @@
+OBJECT_BASE 334858.btg
+OBJECT HI01.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -159.440530 22.211794 87.6 0.00
+OBJECT QANA.btg
+OBJECT_SHARED Models/Airport/windsock.xml -159.301873 22.146403 3.8 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -159.301258 22.150626 -0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -159.301456 22.149588 -0.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -159.301653 22.148551 0.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -159.301851 22.147513 1.7 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -159.301176 22.148472 0.5 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -159.300978 22.149510 -0.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -159.300781 22.150547 -0.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -159.300583 22.151585 -0.0 0.00

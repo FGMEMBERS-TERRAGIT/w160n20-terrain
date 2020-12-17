@@ -1,0 +1,4 @@
+OBJECT_BASE 351206.btg
+OBJECT PHDH.btg
+OBJECT_SHARED Models/Airport/windsock.xml -158.182408 21.578947 7.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -158.209368 21.580418 5.8 0.00
